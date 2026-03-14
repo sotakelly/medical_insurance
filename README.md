@@ -4,7 +4,9 @@ Application Streamlit d'analyse d'un dataset d'assurance médicale, avec détect
 
 ## 📋 Problématique
 
-Les charges médicales sont-elles équitables entre les différents groupes démographiques ? Ce projet analyse trois axes de biais potentiels :
+Les charges médicales sont-elles équitables entre les différents groupes démographiques ? 
+
+Ce projet analyse trois axes de biais potentiels :
 - **Genre** : les hommes et les femmes paient-ils des montants équivalents à profil similaire ?
 - **Âge** : les seniors sont-ils pénalisés de manière disproportionnée ?
 - **Statut fumeur** : l'écart de tarification est-il proportionné au risque réel ?
