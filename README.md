@@ -1,5 +1,7 @@
 # 🏥 Analyse des Coûts d'Assurance Médicale — Détection de Biais & Modélisation
 
+🔗 [Medical Insurance App](https://medicalinsurance-sotakelly.streamlit.app/)
+
 Application Streamlit d'analyse d'un dataset d'assurance médicale, avec détection de biais et modélisation prédictive.
 
 ## 📋 Problématique
